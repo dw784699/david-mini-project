@@ -6,12 +6,13 @@ export default function Home() {
       </h1>
 
       <p className="text-xl text-gray-300">
-        Welcome to my personal portfolio website.
+        I am learning Fullstack Development and building web applications using React and Next.js.
+My background includes supply chain, business, and technology exploration.
       </p >
 
       <div className="mt-8 flex gap-4">
         <a
-          href=" "
+          href="https://github.com/dw784699"
           target="_blank"
           className="rounded-full bg-white px-5 py-2 text-black font-semibold hover:bg-gray-300"
         >
